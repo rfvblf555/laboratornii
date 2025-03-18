@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tenya\\source\\repos\\\u043B\u0430\u0431\u044B \u043E\u043B\u0435\u043D\u044C\\\u0441\u0438\u0441\u0442\u0435\u043C\u043A\u0430\\EfCoreDatabaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74DF21FC-32B1-4200-8A36-3E485451B0AF}|EfCoreDatabaseFirst\\EfCoreDatabaseFirst.csproj|c:\\users\\tenya\\source\\repos\\\u043B\u0430\u0431\u044B \u043E\u043B\u0435\u043D\u044C\\\u0441\u0438\u0441\u0442\u0435\u043C\u043A\u0430\\efcoredatabasefirst\\efcoredatabasefirst\\dbcontexts\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DF21FC-32B1-4200-8A36-3E485451B0AF}|EfCoreDatabaseFirst\\EfCoreDatabaseFirst.csproj|solutionrelative:efcoredatabasefirst\\dbcontexts\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DF21FC-32B1-4200-8A36-3E485451B0AF}|EfCoreDatabaseFirst\\EfCoreDatabaseFirst.csproj|c:\\users\\tenya\\source\\repos\\\u043B\u0430\u0431\u044B \u043E\u043B\u0435\u043D\u044C\\\u0441\u0438\u0441\u0442\u0435\u043C\u043A\u0430\\efcoredatabasefirst\\efcoredatabasefirst\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DF21FC-32B1-4200-8A36-3E485451B0AF}|EfCoreDatabaseFirst\\EfCoreDatabaseFirst.csproj|solutionrelative:efcoredatabasefirst\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DF21FC-32B1-4200-8A36-3E485451B0AF}|EfCoreDatabaseFirst\\EfCoreDatabaseFirst.csproj|c:\\users\\tenya\\source\\repos\\\u043B\u0430\u0431\u044B \u043E\u043B\u0435\u043D\u044C\\\u0441\u0438\u0441\u0442\u0435\u043C\u043A\u0430\\efcoredatabasefirst\\efcoredatabasefirst\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DF21FC-32B1-4200-8A36-3E485451B0AF}|EfCoreDatabaseFirst\\EfCoreDatabaseFirst.csproj|solutionrelative:efcoredatabasefirst\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\\u043B\u0430\u0431\u044B \u043E\u043B\u0435\u043D\u044C\\\u0441\u0438\u0441\u0442\u0435\u043C\u043A\u0430\\EfCoreDatabaseFirst\\EfCoreDatabaseFirst\\App.xaml.cs",
+              "RelativeDocumentMoniker": "EfCoreDatabaseFirst\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\\u043B\u0430\u0431\u044B \u043E\u043B\u0435\u043D\u044C\\\u0441\u0438\u0441\u0442\u0435\u043C\u043A\u0430\\EfCoreDatabaseFirst\\EfCoreDatabaseFirst\\App.xaml.cs",
+              "RelativeToolTip": "EfCoreDatabaseFirst\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:54:43.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\\u043B\u0430\u0431\u044B \u043E\u043B\u0435\u043D\u044C\\\u0441\u0438\u0441\u0442\u0435\u043C\u043A\u0430\\EfCoreDatabaseFirst\\EfCoreDatabaseFirst\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "EfCoreDatabaseFirst\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\\u043B\u0430\u0431\u044B \u043E\u043B\u0435\u043D\u044C\\\u0441\u0438\u0441\u0442\u0435\u043C\u043A\u0430\\EfCoreDatabaseFirst\\EfCoreDatabaseFirst\\Entities\\Category.cs",
+              "RelativeToolTip": "EfCoreDatabaseFirst\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:52:17.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\\u043B\u0430\u0431\u044B \u043E\u043B\u0435\u043D\u044C\\\u0441\u0438\u0441\u0442\u0435\u043C\u043A\u0430\\EfCoreDatabaseFirst\\EfCoreDatabaseFirst\\DbContexts\\ShopDbContext.cs",
+              "RelativeDocumentMoniker": "EfCoreDatabaseFirst\\DbContexts\\ShopDbContext.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\\u043B\u0430\u0431\u044B \u043E\u043B\u0435\u043D\u044C\\\u0441\u0438\u0441\u0442\u0435\u043C\u043A\u0430\\EfCoreDatabaseFirst\\EfCoreDatabaseFirst\\DbContexts\\ShopDbContext.cs",
+              "RelativeToolTip": "EfCoreDatabaseFirst\\DbContexts\\ShopDbContext.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAYwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:44:29.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 11,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
