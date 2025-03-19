@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\mvvmp10lab\\mvvmp10lab\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|solutionrelative:mvvmp10lab\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\mvvmp10lab\\mvvmp10lab\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|solutionrelative:mvvmp10lab\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\mvvmp10lab\\mvvmp10lab\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|solutionrelative:mvvmp10lab\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\mvvmp10lab\\mvvmp10lab\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|solutionrelative:mvvmp10lab\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\mvvmp10lab\\mvvmp10lab\\users\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|solutionrelative:mvvmp10lab\\users\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\mvvmp10lab\\mvvmp10lab\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|solutionrelative:mvvmp10lab\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\mvvmp10lab\\mvvmp10lab\\views\\regpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|solutionrelative:mvvmp10lab\\views\\regpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\mvvmp10lab\\mvvmp10lab\\views\\regpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|solutionrelative:mvvmp10lab\\views\\regpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\mvvmp10lab\\mvvmp10lab\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|solutionrelative:mvvmp10lab\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\mvvmp10lab\\mvvmp10lab\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|solutionrelative:mvvmp10lab\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\mvvmp10lab\\mvvmp10lab\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|solutionrelative:mvvmp10lab\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\mvvmp10lab\\mvvmp10lab\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|solutionrelative:mvvmp10lab\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\mvvmp10lab\\mvvmp10lab\\viewsmodels\\regviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|solutionrelative:mvvmp10lab\\viewsmodels\\regviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\mvvmp10lab\\mvvmp10lab\\viewsmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|solutionrelative:mvvmp10lab\\viewsmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\mvvmp10lab\\mvvmp10lab\\viewsmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|solutionrelative:mvvmp10lab\\viewsmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\mvvmp10lab\\mvvmp10lab\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A688EB7E-15C1-49FC-8BD0-0F06C9F97B75}|MVVMP10LAB\\MVVMP10LAB.csproj|solutionrelative:mvvmp10lab\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MVVMP10LAB\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\MauiProgram.cs",
+              "RelativeToolTip": "MVVMP10LAB\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:01:52.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMP10LAB\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\AppShell.xaml.cs",
+              "RelativeToolTip": "MVVMP10LAB\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:14:54.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MVVMP10LAB\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\AppShell.xaml",
+              "RelativeToolTip": "MVVMP10LAB\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T15:14:13.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMP10LAB\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\App.xaml.cs",
+              "RelativeToolTip": "MVVMP10LAB\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:14:06.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "MVVMP10LAB\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "MVVMP10LAB\\Views\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T15:08:51.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegPage.xaml",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\Views\\RegPage.xaml",
+              "RelativeDocumentMoniker": "MVVMP10LAB\\Views\\RegPage.xaml",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\Views\\RegPage.xaml",
+              "RelativeToolTip": "MVVMP10LAB\\Views\\RegPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T15:11:36.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\Views\\RegPage.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMP10LAB\\Views\\RegPage.xaml.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\Views\\RegPage.xaml.cs",
+              "RelativeToolTip": "MVVMP10LAB\\Views\\RegPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:11:46.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\Users\\User.cs",
+              "RelativeDocumentMoniker": "MVVMP10LAB\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\Users\\User.cs",
+              "RelativeToolTip": "MVVMP10LAB\\Users\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:07:47.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bd.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\Users\\Bd.cs",
+              "RelativeDocumentMoniker": "MVVMP10LAB\\Users\\Bd.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\Users\\Bd.cs",
+              "RelativeToolTip": "MVVMP10LAB\\Users\\Bd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:02:36.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMP10LAB\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "MVVMP10LAB\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:09:38.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MVVMP10LAB\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\Views\\MainPage.xaml",
+              "RelativeToolTip": "MVVMP10LAB\\Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T15:10:12.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\App.xaml",
+              "RelativeDocumentMoniker": "MVVMP10LAB\\App.xaml",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\App.xaml",
+              "RelativeToolTip": "MVVMP10LAB\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T15:14:03.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\ViewsModels\\RegViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMP10LAB\\ViewsModels\\RegViewModel.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\ViewsModels\\RegViewModel.cs",
+              "RelativeToolTip": "MVVMP10LAB\\ViewsModels\\RegViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:13:36.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\ViewsModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMP10LAB\\ViewsModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\ViewsModels\\MainViewModel.cs",
+              "RelativeToolTip": "MVVMP10LAB\\ViewsModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:13:16.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\ViewsModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMP10LAB\\ViewsModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\ViewsModels\\LoginViewModel.cs",
+              "RelativeToolTip": "MVVMP10LAB\\ViewsModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:12:49.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMP10LAB\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\MVVMP10LAB\\MVVMP10LAB\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "MVVMP10LAB\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:10:27.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 11,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

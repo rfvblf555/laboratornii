@@ -1,0 +1,73 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PersonalBudget
+build_property.ProjectDir = C:\Users\tenya\source\repos\laboratornii\mobile_dev\PersonalBudget\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/PersonalBudget/AddTransactionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PersonalBudget.AddTransactionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AddTransactionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AddTransactionPage.xaml
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/PersonalBudget/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PersonalBudget.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/PersonalBudget/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PersonalBudget.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/PersonalBudget/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PersonalBudget.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/PersonalBudget/MenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PersonalBudget.MenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MenuPage.xaml
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/PersonalBudget/RegPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PersonalBudget.RegPage.xaml
+build_metadata.AdditionalFiles.TargetPath = RegPage.xaml
+build_metadata.AdditionalFiles.RelativePath = RegPage.xaml
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/PersonalBudget/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PersonalBudget.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/PersonalBudget/Resources/Styles/Style.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PersonalBudget.Resources.Styles.Style.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Style.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Style.xaml
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/PersonalBudget/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PersonalBudget.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

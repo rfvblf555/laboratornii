@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PersonalBudget.MainPage">
+
+    <ScrollView>
+
+        <VerticalStackLayout
+        Padding="10,0"
+        Spacing="20"
+        VerticalOptions="Center">
+
+            <Label Text="Добро пожаловать!" 
+               HorizontalOptions="Center" 
+               FontSize="24"
+               Style="{StaticResource LabelStyle1}"/>
+
+
+            <Frame>
+                <Entry x:Name="UserNameEntry" 
+                   Placeholder="Введите имя пользователя" />
+            </Frame>
+
+            <Frame>
+                <Entry x:Name="UserPasswordEntry" 
+                   Placeholder="Введите пароль" />
+            </Frame>
+
+
+            <Button
+            x:Name="button1"
+            Text="Войти"
+            Clicked="GoToMenuPage"
+            Style="{StaticResource StandartButtonStyle}">
+            </Button>
+
+            <Label Text="Еще не с нами" HorizontalOptions="Center" FontSize="13" Style="{StaticResource LabelStyle1}"/>
+
+            <Label Text="Регистрация" HorizontalOptions="Center" TextDecorations="Underline" FontSize="13" Style="{StaticResource LabelStyle1}">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="GoToRegistration" />
+                </Label.GestureRecognizers>
+            </Label>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

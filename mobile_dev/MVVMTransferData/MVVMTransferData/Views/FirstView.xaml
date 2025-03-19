@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MVVMTransferData.Views.FirstView"
+             xmlns:vm="clr-namespace:MVVMTransferData.ViewModels"
+             x:DataType="vm:FirstViewModel"
+             Title="FirstView">
+    <VerticalStackLayout Padding="20" VerticalOptions="Center">
+        <Label Text="{Binding InputLesson.ClassroomName, StringFormat='Аудитория {0}'}" />
+        <Label Text="{Binding InputLesson.TeacherName, StringFormat='ФИО {0}'}" />
+        <Label Text="{Binding InputLesson.SubjectName, StringFormat='Дисциплина {0}'}" />
+        <Label Text="{Binding InputLesson.StartAt, StringFormat='Начало пары {0}'}" />
+        <Label Text="{Binding InputLesson.EndAt, StringFormat='Конец пары {0}'}" />
+
+        <Button Text="Переход на вторую страницу" Clicked="GoToSecondPage"/>
+    </VerticalStackLayout>
+</ContentPage>
+

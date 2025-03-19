@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MVVMPattern</name>
+    </assembly>
+    <members>
+        <member name="T:MVVMPattern.ViewModels.LoginViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:MVVMPattern.ViewModels.LoginViewModel.Name">
+            <inheritdoc cref="F:MVVMPattern.ViewModels.LoginViewModel.name"/>
+        </member>
+        <member name="P:MVVMPattern.ViewModels.LoginViewModel.Password">
+            <inheritdoc cref="F:MVVMPattern.ViewModels.LoginViewModel.password"/>
+        </member>
+        <member name="F:MVVMPattern.ViewModels.LoginViewModel.goToMainPageCommand">
+            <summary>The backing field for <see cref="P:MVVMPattern.ViewModels.LoginViewModel.GoToMainPageCommand"/>.</summary>
+        </member>
+        <member name="P:MVVMPattern.ViewModels.LoginViewModel.GoToMainPageCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MVVMPattern.ViewModels.LoginViewModel.GoToMainPageAsync"/>.</summary>
+        </member>
+        <member name="F:MVVMPattern.ViewModels.LoginViewModel.goToRegistrationPageCommand">
+            <summary>The backing field for <see cref="P:MVVMPattern.ViewModels.LoginViewModel.GoToRegistrationPageCommand"/>.</summary>
+        </member>
+        <member name="P:MVVMPattern.ViewModels.LoginViewModel.GoToRegistrationPageCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MVVMPattern.ViewModels.LoginViewModel.GoToRegistrationPageAsync"/>.</summary>
+        </member>
+        <member name="T:MVVMPattern.ViewModels.RegistrationViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:MVVMPattern.ViewModels.RegistrationViewModel.Name">
+            <inheritdoc cref="F:MVVMPattern.ViewModels.RegistrationViewModel.name"/>
+        </member>
+        <member name="P:MVVMPattern.ViewModels.RegistrationViewModel.Password">
+            <inheritdoc cref="F:MVVMPattern.ViewModels.RegistrationViewModel.password"/>
+        </member>
+        <member name="F:MVVMPattern.ViewModels.RegistrationViewModel.goToLoginPageCommand">
+            <summary>The backing field for <see cref="P:MVVMPattern.ViewModels.RegistrationViewModel.GoToLoginPageCommand"/>.</summary>
+        </member>
+        <member name="P:MVVMPattern.ViewModels.RegistrationViewModel.GoToLoginPageCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MVVMPattern.ViewModels.RegistrationViewModel.GoToLoginPageAsync"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Name">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Name" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Password">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Password" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Name">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Name" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Password">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Password" generated properties.</summary>
+        </member>
+    </members>
+</doc>

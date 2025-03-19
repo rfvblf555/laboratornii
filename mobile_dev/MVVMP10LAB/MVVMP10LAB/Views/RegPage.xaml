@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MVVMP10LAB.Views.RegPage"
+             Title="RegPage"
+             x:DataType="vm:RegViewModel"
+             xmlns:vm="clr-namespace:MVVMP10LAB.ViewsModels">
+    <VerticalStackLayout
+     Padding="30,0"
+     Spacing="25">
+        <Label 
+         Text="Регистрация"
+         VerticalOptions="Center" 
+         HorizontalOptions="Center" />
+        <Border>
+            <Entry Text="{Binding Login}"/>
+        </Border>
+
+        <Border>
+            <Entry Text="{Binding Password}"/>
+        </Border>
+
+        <Button Command="{Binding AddUserCommand}" Text="Зарегистрироваться"/>
+
+    </VerticalStackLayout>
+</ContentPage>

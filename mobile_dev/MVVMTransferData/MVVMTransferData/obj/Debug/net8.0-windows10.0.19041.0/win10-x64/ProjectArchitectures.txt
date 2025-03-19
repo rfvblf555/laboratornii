@@ -1,0 +1,1 @@
+C:\Users\tenya\source\repos\laboratornii\mobile_dev\MVVMTransferData\MVVMTransferData\MVVMTransferData.csproj;x64
