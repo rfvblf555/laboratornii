@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\platforms\\ios\\info.plist||{4B819833-C3E7-40A8-B4AF-4F7F5E6B913F}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\platforms\\ios\\info.plist||{4B819833-C3E7-40A8-B4AF-4F7F5E6B913F}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\windows\\updateproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\windows\\updateproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\windows\\updateproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\windows\\updateproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\windows\\removepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\windows\\removepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\windows\\removepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\windows\\removepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\windows\\products.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\windows\\products.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\windows\\products.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\windows\\products.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\windows\\productidsearch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\windows\\productidsearch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\windows\\addproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\windows\\addproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\windows\\productidsearch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\windows\\productidsearch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\windows\\addproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\windows\\addproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\models\\productresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\models\\productresponce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\httprequestssending\\httprequestssending\\models\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1230EB8-0F92-48C1-AF5E-7EF212B475A6}|HttpRequestsSending\\HttpRequestsSending.csproj|solutionrelative:httprequestssending\\models\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "HttpRequestsSending\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:01:05.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "HttpRequestsSending\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:01:04.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Platforms\\iOS\\AppDelegate.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeToolTip": "HttpRequestsSending\\Platforms\\iOS\\AppDelegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:00:57.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Info.plist",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Platforms\\iOS\\Info.plist",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Platforms\\iOS\\Info.plist",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Platforms\\iOS\\Info.plist",
+              "RelativeToolTip": "HttpRequestsSending\\Platforms\\iOS\\Info.plist",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-20T18:00:56.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Platforms\\iOS\\Program.cs",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Platforms\\iOS\\Program.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Platforms\\iOS\\Program.cs",
+              "RelativeToolTip": "HttpRequestsSending\\Platforms\\iOS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:00:54.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HttpRequestsSending\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T17:56:50.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\MauiProgram.cs",
+              "RelativeToolTip": "HttpRequestsSending\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:54:55.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\MainPage.xaml.cs",
+              "RelativeToolTip": "HttpRequestsSending\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:53:50.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\MainPage.xaml",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\MainPage.xaml",
+              "RelativeToolTip": "HttpRequestsSending\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T17:53:44.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\AppShell.xaml.cs",
+              "RelativeToolTip": "HttpRequestsSending\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:53:00.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\AppShell.xaml",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\AppShell.xaml",
+              "RelativeToolTip": "HttpRequestsSending\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T17:53:00.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\App.xaml.cs",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\App.xaml.cs",
+              "RelativeToolTip": "HttpRequestsSending\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:52:26.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\App.xaml",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\App.xaml",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\App.xaml",
+              "RelativeToolTip": "HttpRequestsSending\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T17:52:25.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateProduct.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\UpdateProduct.xaml.cs",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Windows\\UpdateProduct.xaml.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\UpdateProduct.xaml.cs",
+              "RelativeToolTip": "HttpRequestsSending\\Windows\\UpdateProduct.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:49:12.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateProduct.xaml",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\UpdateProduct.xaml",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Windows\\UpdateProduct.xaml",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\UpdateProduct.xaml",
+              "RelativeToolTip": "HttpRequestsSending\\Windows\\UpdateProduct.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T17:48:50.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RemovePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\RemovePage.xaml.cs",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Windows\\RemovePage.xaml.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\RemovePage.xaml.cs",
+              "RelativeToolTip": "HttpRequestsSending\\Windows\\RemovePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:48:01.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RemovePage.xaml",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\RemovePage.xaml",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Windows\\RemovePage.xaml",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\RemovePage.xaml",
+              "RelativeToolTip": "HttpRequestsSending\\Windows\\RemovePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T17:47:55.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Products.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\Products.xaml.cs",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Windows\\Products.xaml.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\Products.xaml.cs",
+              "RelativeToolTip": "HttpRequestsSending\\Windows\\Products.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:47:11.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Products.xaml",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\Products.xaml",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Windows\\Products.xaml",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\Products.xaml",
+              "RelativeToolTip": "HttpRequestsSending\\Windows\\Products.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T17:46:27.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductIdSearch.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\ProductIdSearch.xaml.cs",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Windows\\ProductIdSearch.xaml.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\ProductIdSearch.xaml.cs",
+              "RelativeToolTip": "HttpRequestsSending\\Windows\\ProductIdSearch.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:45:37.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductIdSearch.xaml",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\ProductIdSearch.xaml",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Windows\\ProductIdSearch.xaml",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\ProductIdSearch.xaml",
+              "RelativeToolTip": "HttpRequestsSending\\Windows\\ProductIdSearch.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T17:45:24.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddProduct.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\AddProduct.xaml.cs",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Windows\\AddProduct.xaml.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\AddProduct.xaml.cs",
+              "RelativeToolTip": "HttpRequestsSending\\Windows\\AddProduct.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:44:24.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddProduct.xaml",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\AddProduct.xaml",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Windows\\AddProduct.xaml",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Windows\\AddProduct.xaml",
+              "RelativeToolTip": "HttpRequestsSending\\Windows\\AddProduct.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T17:44:17.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductResponce.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Models\\ProductResponce.cs",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Models\\ProductResponce.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Models\\ProductResponce.cs",
+              "RelativeToolTip": "HttpRequestsSending\\Models\\ProductResponce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:43:11.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Models\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "HttpRequestsSending\\Models\\ProductRequest.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\HttpRequestsSending\\HttpRequestsSending\\Models\\ProductRequest.cs",
+              "RelativeToolTip": "HttpRequestsSending\\Models\\ProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:43:10.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 11,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

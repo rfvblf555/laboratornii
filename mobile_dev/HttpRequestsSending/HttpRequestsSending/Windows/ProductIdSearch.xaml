@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HttpRequestsSending.Windows.ProductIdSearch"
+             xmlns:models="clr-namespace:HttpRequestsSending.Models"
+             Title="ProductIdSearch">
+
+    <VerticalStackLayout>
+        <ScrollView>
+            <VerticalStackLayout
+     Padding="30, 0"
+     Spacing="25">
+
+                <Entry x:Name="IdEntry"
+                    Placeholder="Введите Id продукта"/>
+                <Button x:Name="SearchId" Text="Найти" Clicked="Search_Click"/>
+
+                <VerticalStackLayout Spacing="5">
+
+                    <HorizontalStackLayout Spacing="5">
+                        <Label Text="Id:" FontSize="14"/>
+                        <Label x:Name="Id" FontSize="14"/>
+                    </HorizontalStackLayout>
+
+                    <HorizontalStackLayout Spacing="5">
+                        <Label Text="Title:" FontSize="18"/>
+                        <Label x:Name="Title" FontSize="18"/>
+                    </HorizontalStackLayout>
+
+                    <HorizontalStackLayout Spacing="5">
+                        <Label Text="Description:" TextColor="Grey"/>
+                        <Label x:Name="Description" FontSize="14"/>
+                    </HorizontalStackLayout>
+
+                    <HorizontalStackLayout Spacing="5">
+                        <Label Text="Created At:" TextColor="Grey"/>
+                        <Label x:Name="CreatedAt" FontSize="14"/>
+                    </HorizontalStackLayout>
+
+                    <HorizontalStackLayout Spacing="5">
+                        <Label Text="Updated At:" TextColor="Grey"/>
+                        <Label x:Name="UpdatedAt" FontSize="14"/>
+                    </HorizontalStackLayout>
+
+                </VerticalStackLayout>
+
+
+            </VerticalStackLayout>
+        </ScrollView>
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5B5C49-6D3D-4032-96A4-E9B221C83C03}|samostoyatelnaya\\samostoyatelnaya.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A5B5C49-6D3D-4032-96A4-E9B221C83C03}|samostoyatelnaya\\samostoyatelnaya.csproj|solutionrelative:samostoyatelnaya\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5B5C49-6D3D-4032-96A4-E9B221C83C03}|samostoyatelnaya\\samostoyatelnaya.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5B5C49-6D3D-4032-96A4-E9B221C83C03}|samostoyatelnaya\\samostoyatelnaya.csproj|solutionrelative:samostoyatelnaya\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5B5C49-6D3D-4032-96A4-E9B221C83C03}|samostoyatelnaya\\samostoyatelnaya.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5B5C49-6D3D-4032-96A4-E9B221C83C03}|samostoyatelnaya\\samostoyatelnaya.csproj|solutionrelative:samostoyatelnaya\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5B5C49-6D3D-4032-96A4-E9B221C83C03}|samostoyatelnaya\\samostoyatelnaya.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A5B5C49-6D3D-4032-96A4-E9B221C83C03}|samostoyatelnaya\\samostoyatelnaya.csproj|solutionrelative:samostoyatelnaya\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5B5C49-6D3D-4032-96A4-E9B221C83C03}|samostoyatelnaya\\samostoyatelnaya.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5B5C49-6D3D-4032-96A4-E9B221C83C03}|samostoyatelnaya\\samostoyatelnaya.csproj|solutionrelative:samostoyatelnaya\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5B5C49-6D3D-4032-96A4-E9B221C83C03}|samostoyatelnaya\\samostoyatelnaya.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A5B5C49-6D3D-4032-96A4-E9B221C83C03}|samostoyatelnaya\\samostoyatelnaya.csproj|solutionrelative:samostoyatelnaya\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5B5C49-6D3D-4032-96A4-E9B221C83C03}|samostoyatelnaya\\samostoyatelnaya.csproj|c:\\users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\samostoyatelnaya.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A5B5C49-6D3D-4032-96A4-E9B221C83C03}|samostoyatelnaya\\samostoyatelnaya.csproj|solutionrelative:samostoyatelnaya\\samostoyatelnaya.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\AppShell.xaml",
+              "RelativeDocumentMoniker": "samostoyatelnaya\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\AppShell.xaml",
+              "RelativeToolTip": "samostoyatelnaya\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T18:22:19.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "samostoyatelnaya\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\AppShell.xaml.cs",
+              "RelativeToolTip": "samostoyatelnaya\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:22:11.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "samostoyatelnaya\\RegistrationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "samostoyatelnaya\\RegistrationPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:21:20.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "samostoyatelnaya",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\samostoyatelnaya.csproj",
+              "RelativeDocumentMoniker": "samostoyatelnaya\\samostoyatelnaya.csproj",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\samostoyatelnaya.csproj",
+              "RelativeToolTip": "samostoyatelnaya\\samostoyatelnaya.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T18:21:05.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "samostoyatelnaya\\RegistrationPage.xaml",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\RegistrationPage.xaml",
+              "RelativeToolTip": "samostoyatelnaya\\RegistrationPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T18:21:09.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "samostoyatelnaya\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\MainPage.xaml.cs",
+              "RelativeToolTip": "samostoyatelnaya\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:20:45.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\MainPage.xaml",
+              "RelativeDocumentMoniker": "samostoyatelnaya\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\tenya\\source\\repos\\laboratornii\\mobile_dev\\samostoyatelnaya\\samostoyatelnaya\\MainPage.xaml",
+              "RelativeToolTip": "samostoyatelnaya\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T18:20:34.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 11,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

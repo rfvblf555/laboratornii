@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="samostoyatelnaya.RegistrationPage"
+             BackgroundColor="LightGray"
+             Title="RegistrationPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+        Margin="30, 0"
+        Padding="25"
+        VerticalOptions="Center">
+            <VerticalStackLayout Spacing="15" VerticalOptions="Center">
+                <Image   Source="variant_2_1.png"
+                     HeightRequest="185"
+                     Aspect="AspectFit"/>
+
+                <Label Text="Создание нового аккаунта!"
+                       FontSize="25"
+                        HorizontalOptions="FillAndExpand"
+                       HorizontalTextAlignment="Center"
+                     FontAttributes="Bold"/>
+
+                <Border StrokeShape="RoundRectangle 10"
+                        Padding="5"
+                        Margin="-25, 15, -25, 0">
+                    <Entry Placeholder="Почта"/>
+                </Border>
+
+                <Border StrokeShape="RoundRectangle 10"
+                        Padding="5"
+                        Margin="-25, -5, -25, 0">
+                    <Grid>
+
+                        <Entry x:Name="PasswordEntry"
+                               Placeholder="Введите пароль"
+                               IsPassword="True"
+                               HorizontalOptions="FillAndExpand"
+                               BackgroundColor="Transparent"
+    
+
+                               Grid.Column="0"
+                                />
+                        <BoxView WidthRequest="1" 
+                                 HorizontalOptions="End" 
+                                     HeightRequest="23"
+                                 Color="Gray" 
+                                 Margin="50,0"
+                                 Grid.Column="1" />
+
+                        <Image x:Name="ToggleVisibilityImage"
+                               HorizontalOptions="End"
+                               VerticalOptions="Center"
+                               WidthRequest="30" HeightRequest="30"
+                               Margin="0,0,12,0"
+                               Source="visible.png">
+
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnTogglePasswordVisibility"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Grid>
+                </Border>
+
+                <Border StrokeShape="RoundRectangle 10"
+                        Padding="5"
+                        Margin="-25, -5, -25, 8">
+                    <Entry Placeholder="повторите пароль"/>
+                </Border>
+            </VerticalStackLayout>
+            <VerticalStackLayout VerticalOptions="EndAndExpand" Spacing="70">
+                <Button Text="Зарегестрироваться"
+                    BackgroundColor="Green"
+                        Clicked="GoToMainPage"
+                        Margin="-25, 0, -25, 25"/>
+
+
+
+                <Label HorizontalTextAlignment="Center" VerticalTextAlignment="Center">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Все права защищены в " FontSize="10" FontAttributes="Bold"/>
+                            <Span Text="GreenElephant!" TextColor="Green" FontSize="10" FontAttributes="Bold"/>
+
+                        </FormattedString>
+                    </Label.FormattedText>
+
+                </Label>
+            </VerticalStackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HttpRequestsSending.Windows.UpdateProduct"
+             Title="UpdateProduct">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="30" Spacing="25" VerticalOptions="Center">
+
+            <Entry x:Name="IdEntry"
+               Placeholder="Введите id товара"/>
+
+            <Entry x:Name="TitleEntry"
+             Placeholder="Введите новое название товара"/>
+
+            <Entry x:Name="DescriptionEntry"
+             Placeholder="Введите новое описание товара"/>
+
+            <Button Text="Обновить товар из каталога" Clicked="Update_Clicked"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

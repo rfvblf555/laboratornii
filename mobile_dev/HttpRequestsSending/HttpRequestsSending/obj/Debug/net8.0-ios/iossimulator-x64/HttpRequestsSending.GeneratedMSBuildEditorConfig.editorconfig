@@ -1,0 +1,79 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HttpRequestsSending
+build_property.ProjectDir = C:\Users\tenya\source\repos\laboratornii\mobile_dev\HttpRequestsSending\HttpRequestsSending\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/HttpRequestsSending/HttpRequestsSending/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HttpRequestsSending.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/HttpRequestsSending/HttpRequestsSending/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HttpRequestsSending.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/HttpRequestsSending/HttpRequestsSending/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HttpRequestsSending.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/HttpRequestsSending/HttpRequestsSending/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HttpRequestsSending.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/HttpRequestsSending/HttpRequestsSending/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HttpRequestsSending.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/HttpRequestsSending/HttpRequestsSending/Windows/AddProduct.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HttpRequestsSending.Windows.AddProduct.xaml
+build_metadata.AdditionalFiles.TargetPath = Windows\AddProduct.xaml
+build_metadata.AdditionalFiles.RelativePath = Windows\AddProduct.xaml
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/HttpRequestsSending/HttpRequestsSending/Windows/ProductIdSearch.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HttpRequestsSending.Windows.ProductIdSearch.xaml
+build_metadata.AdditionalFiles.TargetPath = Windows\ProductIdSearch.xaml
+build_metadata.AdditionalFiles.RelativePath = Windows\ProductIdSearch.xaml
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/HttpRequestsSending/HttpRequestsSending/Windows/Products.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HttpRequestsSending.Windows.Products.xaml
+build_metadata.AdditionalFiles.TargetPath = Windows\Products.xaml
+build_metadata.AdditionalFiles.RelativePath = Windows\Products.xaml
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/HttpRequestsSending/HttpRequestsSending/Windows/RemovePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HttpRequestsSending.Windows.RemovePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Windows\RemovePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Windows\RemovePage.xaml
+
+[C:/Users/tenya/source/repos/laboratornii/mobile_dev/HttpRequestsSending/HttpRequestsSending/Windows/UpdateProduct.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HttpRequestsSending.Windows.UpdateProduct.xaml
+build_metadata.AdditionalFiles.TargetPath = Windows\UpdateProduct.xaml
+build_metadata.AdditionalFiles.RelativePath = Windows\UpdateProduct.xaml

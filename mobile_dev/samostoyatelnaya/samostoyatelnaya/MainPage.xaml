@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="samostoyatelnaya.MainPage">
+
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="20"
+            VerticalOptions="Center">
+
+            <VerticalStackLayout Spacing="10" HorizontalOptions="Center">
+
+                <Image   Source="variant_2_1.png"
+                     HeightRequest="185"
+                     Aspect="AspectFit" />
+
+                <VerticalStackLayout  Spacing="4" HorizontalOptions="Center">
+                    <Label >
+                        <Label.FormattedText>
+                            <FormattedString>
+                                <Span Text="Вход в " FontSize="25" FontAttributes="Bold"/>
+                                <Span Text="GreenElephant " TextColor="Green" FontSize="25" FontAttributes="Bold"/>
+
+                            </FormattedString>
+                        </Label.FormattedText>
+
+                    </Label>
+
+                    <Label Margin="0, -3, 0, 40" 
+                    Text="Запись на посещение заповедника"
+                   
+                       FontSize="12"
+                       TextColor="LightSlateGrey"
+                       HorizontalOptions="Center" 
+                       FontAttributes="Bold"/>
+                </VerticalStackLayout>
+
+            </VerticalStackLayout>
+            <VerticalStackLayout Spacing="5">
+                <Border StrokeShape="RoundRectangle 10"
+                        Padding="5"
+                        Margin="0, 0, 0, 5">
+                    <Entry Placeholder="Почта"/>
+                </Border>
+
+                <Border StrokeShape="RoundRectangle 10"
+                    Padding="5"
+                    Margin="0, 0, 0, 5">
+                    <Grid>
+
+                        <Entry x:Name="PasswordEntry"
+                   Placeholder="Введите пароль"
+                   IsPassword="True"
+                   HorizontalOptions="FillAndExpand"
+                   BackgroundColor="Transparent"
+                   TextColor="Black"
+                
+
+                   Grid.Column="0"
+                    />
+                        <BoxView WidthRequest="1" 
+                     HorizontalOptions="End" 
+                         HeightRequest="23"
+                     Color="Gray" 
+                     Margin="50,0"
+                     Grid.Column="1" />
+
+                        <Image x:Name="ToggleVisibilityImage"
+                   HorizontalOptions="End"
+                   VerticalOptions="Center"
+                   WidthRequest="30" HeightRequest="30"
+                   Margin="0,0,12,0"
+                   Source="visible.png">
+
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnTogglePasswordVisibility"/>
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </Grid>
+                </Border>
+
+                <Grid Margin="0, 0, 0, 150">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Border StrokeShape="RoundRectangle 11"
+                        BackgroundColor="Green"
+                        Background="Green"
+                        Margin="0, 0, 0, 15">
+                        <Button
+                Text="Регистрация"
+      
+                  Margin="3, 3, 3, 3"
+                    Background="LightGray"
+                    TextColor="Green"
+                    Clicked="GoToRegistrationPage"/>
+                    </Border>
+
+                    <Button
+                Background="Green"
+                Text="Войти"
+                    Margin="10, 1, 0, 17"
+                    Grid.Column="1"/>
+
+                </Grid>
+            </VerticalStackLayout>
+            <Label HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="EndAndExpand">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Все права защищены в " FontSize="10" FontAttributes="Bold"/>
+                        <Span Text="GreenElephant!" TextColor="Green" FontSize="10" FontAttributes="Bold"/>
+
+                    </FormattedString>
+                </Label.FormattedText>
+
+            </Label>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
